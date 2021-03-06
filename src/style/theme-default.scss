@@ -1,0 +1,22 @@
+.app {
+  &.default {
+    .header {
+      background-color: red;
+    }
+    .left-sidebar-one {
+      background-color: green;
+    }
+    .left-sidebar-two {
+      background-color: gray;
+    }
+    .right-sidebar {
+      background-color: yellow;
+    }
+    .content {
+      background-color: yellowgreen;
+    }
+    .footer {
+      background-color: orange;
+    }
+  }
+}
